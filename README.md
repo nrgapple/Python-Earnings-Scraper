@@ -1,4 +1,4 @@
-# Upcoming Earings Stocks Scraper
+# Upcoming Earnings Stocks Scraper
 
 
 
